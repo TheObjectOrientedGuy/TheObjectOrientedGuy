@@ -3,11 +3,7 @@
   
 
 - ⚔️ Full Stack Software Engineer  
-  
-
-- 🌱 I’m currently learning DevOps and Machine Learning  
-  
-
+   
 - ⚡ Fun fact: I know how to center a "div"  
   
 
